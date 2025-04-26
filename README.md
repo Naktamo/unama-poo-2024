@@ -1,2 +1,2 @@
 # unama-poo-2024
-repositorio para aulas de poo( programação orientada a obj.)
+Esse code space é para testar, criar e inserir aplicações fora do vs code.
